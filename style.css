@@ -1,0 +1,21 @@
+:root {
+    /*color scheme*/
+    --pink:#EFD6DA;
+    --purple:#BF81AD;
+    --pink-purple:#A71F60;
+    --purple-dark:#1B0D24;
+    --orange-light:#F4C681;
+    --orange-dark:#DE7340;
+    
+    --blue-dark:#3742fa;
+    --blue-light:#70a1ff;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    padding:0;
+    margin:0;
+}
+
